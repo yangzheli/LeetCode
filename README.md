@@ -3,6 +3,8 @@ LeetCode精选
 
 * [常用算法](https://github.com/shao001/LeetCode/blob/master/docs/常用算法)  
 
+* [链表](https://github.com/shao001/LeetCode/blob/master/docs/链表)  
+
 * [二分查找](https://github.com/shao001/LeetCode/blob/master/docs/二分查找)  
 
 * [双指针&滑动窗口](https://github.com/shao001/LeetCode/blob/master/docs/双指针&滑动窗口)  
@@ -11,7 +13,9 @@ LeetCode精选
 
 * [动态规划](https://github.com/shao001/LeetCode/blob/master/docs/动态规划)  
 
-* [贪心算法](https://github.com/shao001/LeetCode/blob/master/docs/贪心算法)
+* [贪心算法](https://github.com/shao001/LeetCode/blob/master/docs/贪心算法)  
+
+* [二叉树](https://github.com/shao001/LeetCode/blob/master/docs/二叉树)  
 
 * [前缀树](https://github.com/shao001/LeetCode/blob/master/docs/前缀树)  
 
